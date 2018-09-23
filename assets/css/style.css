@@ -1,0 +1,17 @@
+body {
+    background-image: url("../images/gravel.png")!important;
+}
+
+
+
+.bg-info {
+    background-color: #4aaaa5!important;
+}
+
+.navbar-light {
+    color: #777777!important;
+}
+
+.text-light {
+    color: #777777!important;
+}
