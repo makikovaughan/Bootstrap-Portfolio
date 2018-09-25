@@ -1,5 +1,6 @@
 body {
     background-image: url("../images/gravel.png")!important;
+    height: 100%;
 }
 
 hr { 
@@ -39,12 +40,20 @@ hr {
 
 .thumbnail {
     position: relative;
-    width: 80%;
+    width: 80%; 
 } 
 
 .caption {
     position: absolute;
-    bottom: 10%;
+    bottom: 0;
     left: 0;
+    width: 100%;
+}
+
+.copyright-text {
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    background-color: #777777;
     width: 100%;
 }
