@@ -9,8 +9,7 @@ p {
 }
 
 .navbar {
-    background-image: url("../images/background.jpeg")!important;
-    background-position: right bottom!important;
+    background-image: url("../images/background-beam-beautiful-33707.jpg")!important;
 }
 
 .navbar-brand {
@@ -48,7 +47,7 @@ hr {
 }
 
 .nav-link {
-    color: white!important;
+    color: black!important;
 }
 
 .navbar-light {
