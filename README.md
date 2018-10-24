@@ -24,5 +24,5 @@ This is my web site using Bootstrap.
 * contact.html
 ![contact](./assets/images/contact1.png)
 
-#Authur
+# Author
 Makiko Vaughan(makiko.vaughan@gmail.com)
