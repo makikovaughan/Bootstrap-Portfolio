@@ -18,8 +18,7 @@ This is my web site using Bootstrap.
 ![index2](./assets/images/index2.png)
 
 * portfolio.html
-![portfolio1](./assets/images/portfolio1.png)
-![portfolio2](./assets/images/portfolio2.png)
+![portfolio](./assets/images/portfolio1.png)
 
 * contact.html
 ![contact](./assets/images/contact1.png)
