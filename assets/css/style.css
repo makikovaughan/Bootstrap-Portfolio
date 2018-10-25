@@ -12,7 +12,10 @@ p {
     background-image: url("../images/sunflower-3292932_1920.jpg")!important;
 }
 
-
+.card-link {
+    color: #4aaaa5!important;
+    font-size: 20px;
+}
 
 .navbar-brand {
     font-size: 45px!important;
