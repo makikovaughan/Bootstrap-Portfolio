@@ -1,6 +1,6 @@
 body {
     background-image: url("../images/green_dust_scratch.png")!important;
-    height: 80%;
+    /* height: 80%; */
     font-size: 15px!important;
 }
 
@@ -25,7 +25,7 @@ p {
     font-size: 20px!important;
 }
 .navbar-brand {
-    font-size: 45px!important;
+    font-size: 35px!important;
 }
 
 p.h4 {
