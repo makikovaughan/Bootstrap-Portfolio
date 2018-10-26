@@ -26,6 +26,11 @@ p {
 }
 .navbar-brand {
     font-size: 35px!important;
+    white-space: pre-wrap!important;
+}
+
+.table-hover{
+    white-space: pre-wrap!important;
 }
 
 p.h4 {
