@@ -3,6 +3,11 @@ body {
     font-size: 15px!important;
 }
 
+.jumbotron {
+    background-image: url("../images/sunflower-3292932_1920.jpg")!important;
+    background-size: cover!important; 
+    background-position: center!important;
+}
 
 
 p {
