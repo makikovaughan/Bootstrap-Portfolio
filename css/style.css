@@ -1265,8 +1265,17 @@ article {
   color: #02bdd5;
 }
 
+.cd-intro .greeting {
+  display: block;
+}
+
 .cd-headline.slide .cd-words-wrapper {
   color: #02bdd5;
+}
+
+.cd-words-wrapper b {
+  white-space: normal;
+  text-align: center;
 }
 
 ul.social-icons {
