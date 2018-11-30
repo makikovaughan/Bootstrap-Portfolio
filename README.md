@@ -14,14 +14,14 @@ This is my web site using Bootstrap.
 ## Page Information
 
 * index.html
-![index1](./assets/images/index1.png)
-![index2](./assets/images/index2.png)
+![index1](./images/clients/homepage1.png)
+![index2](./images/clients/homepage2.png)
 
-* portfolio.html
-![portfolio](./assets/images/portfolio1.png)
+* gallery.html
+![portfolio](./images/clients/portfolio.png)
 
 * contact.html
-![contact](./assets/images/contact1.png)
+![contact](./images/clients/contact.png)
 
 # Author
 Makiko Vaughan(makiko.vaughan@gmail.com)
